@@ -5,4 +5,3 @@
 - Apriori
 - FP-growh
 - Eclat
-
