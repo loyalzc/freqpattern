@@ -46,3 +46,4 @@ def eclat_zc(data_set, min_support=1):
     freq_items = {}
     freq_items = eclat([], sorted(data.items(), key=lambda item: len(item[1]), reverse=True), min_support, freq_items)
     return freq_items
+

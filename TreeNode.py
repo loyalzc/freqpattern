@@ -8,11 +8,11 @@
 
 class treeNode:
     def __init__(self, name_value, num_occur, parent_node):
-        self.name = name_value  # 节点元素名称
-        self.count = num_occur  # 出现的次数
-        self.node_link = None  # 指向下一个相似节点的指针，默认为None
-        self.parent = parent_node  # 指向父节点的指针
-        self.children = {}  # 指向孩子节点的字典 子节点的元素名称为键，指向子节点的指针为值
+        self.name = name_value
+        self.count = num_occur
+        self.node_link = None
+        self.parent = parent_node
+        self.children = {}
 
     def increase(self, num_occur):
         """
