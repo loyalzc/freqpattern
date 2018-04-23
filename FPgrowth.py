@@ -138,4 +138,3 @@ def fp_growth(data_set, min_support=1):
     freq_items = {}
     mine_tree(my_fp_tree, my_header_tab, min_support, set([]), freq_items)
     return freq_items
-
