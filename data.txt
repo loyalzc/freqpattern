@@ -1,0 +1,15 @@
+com.accuweather.android.apk.txt: 26 8 7 25 
+com.amber.weather.apk.txt: 7 26 25 10 
+com.daily.weather.forecast.weather.apk.txt: 10 8 7 
+com.getone.getweatherAPP.apk.txt: 26 8 7 10 6 25 3 
+com.graph.weather.forecast.channel.apk.txt: 10 8 7 
+com.rainforecast.weather.apk.txt: 10 8 7 
+com.wea.climate.clock.widget.apk.txt: 8 7 
+com.yahoo.mobile.client.android.weather.apk.txt: 26 7 6 
+mehrgan.app.weather.apk.txt: 8 7 10 6 26 
+mobi.infolife.ezweather.widget.g23n8.apk.txt: 26 7 25 10 
+mobi.infolife.ezweather.widget.liveweather.homescreen.apk.txt: 26 25 25 10 7 
+mobi.infolife.ezweather.widget.weather.galaxy.widget.apk.txt: 26 25 25 10 7 
+mobi.infolife.ezweather.widget.weather.location.app.apk.txt: 26 7 25 10 
+tr.gov.mgm.meteorolojihavadurumu.apk.txt: 7 3 
+yong.tools.life.weather.apk.txt: 8 7 25 26 

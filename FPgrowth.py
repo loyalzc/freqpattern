@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Infaraway
-@time: 2017/4/15 16:07
-@Function:
-"""
-from freqPattern.TreeNode import treeNode
+
+from TreeNode import treeNode
 
 
 def create_tree(data_set, min_support=1):
